@@ -11,5 +11,4 @@ language by hackers and security professionals.
 **Day 3 (Sept 3):** Started the Complete Python Course by CodeWithHarry to build a strong programming foundation. 
 Completed Chapter 1: Learned about Python Modules, PIP (Package Installer), and how to use Comments effectively for documentation.
 
-**Day 4 (Sept 4):** Started the Complete Python Course by CodeWithHarry to build a strong programming foundation. 
-Completed Chapter 1: Learned about Python Modules, PIP (Package Installer), and how to use Comments effectively for documentation.
+**Day 4 (Sept 4):** Continued the Python course. Learned about Variables and Data Types in Python (Strings, Integers, Floats, Booleans). Building the core foundation!
