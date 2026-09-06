@@ -12,3 +12,5 @@ language by hackers and security professionals.
 Completed Chapter 1: Learned about Python Modules, PIP (Package Installer), and how to use Comments effectively for documentation.
 
 **Day 4 (Sept 4):** Continued the Python course. Learned about Variables and Data Types in Python (Strings, Integers, Floats, Booleans). Building the core foundation!
+
+**Day 5 (Sept 5):** Continued the Python course. Learned about Variables and Data Types in Python (Strings, Integers, Floats, Booleans). Building the core foundation!
