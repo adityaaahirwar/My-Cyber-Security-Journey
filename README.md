@@ -13,4 +13,5 @@ Completed Chapter 1: Learned about Python Modules, PIP (Package Installer), and 
 
 **Day 4 (Sept 4):** Continued the Python course. Learned about Variables and Data Types in Python (Strings, Integers, Floats, Booleans). Building the core foundation!
 
-**Day 5 (Sept 5):** Continued the Python course. Learned about Variables and Data Types in Python (Strings, Integers, Floats, Booleans). Building the core foundation!
+**Day 5 (Step 5):** Dived deep into Python Strings! Learned how to store, manipulate, and work with text data. Explored string slicing and string functions. Building the tech vocabulary!
+
