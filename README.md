@@ -15,3 +15,4 @@ Completed Chapter 1: Learned about Python Modules, PIP (Package Installer), and 
 
 **Day 5 (Step 5):** Dived deep into Python Strings! Learned how to store, manipulate, and work with text data. Explored string slicing and string functions. Building the tech vocabulary!
 
+**Day 6 (Step 6):** Mastered Lists and Tuples in Python! Learned how to store multiple items in a single variable, the difference between mutability (Lists) and immutability (Tuples), and how to manipulate data collections.
