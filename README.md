@@ -13,6 +13,8 @@ Completed Chapter 1: Learned about Python Modules, PIP (Package Installer), and 
 
 **Day 4 (Sept 4):** Continued the Python course. Learned about Variables and Data Types in Python (Strings, Integers, Floats, Booleans). Building the core foundation!
 
-**Day 5 (Step 5):** Dived deep into Python Strings! Learned how to store, manipulate, and work with text data. Explored string slicing and string functions. Building the tech vocabulary!
+**Day 5 (Sept 7):** Dived deep into Python Strings! Learned how to store, manipulate, and work with text data. Explored string slicing and string functions. Building the tech vocabulary!
 
-**Day 6 (Step 6):** Mastered Lists and Tuples in Python! Learned how to store multiple items in a single variable, the difference between mutability (Lists) and immutability (Tuples), and how to manipulate data collections.
+**Day 6 (Sept 9):** Mastered Lists and Tuples in Python! Learned how to store multiple items in a single variable, the difference between mutability (Lists) and immutability (Tuples), and how to manipulate data collections.
+
+**Day 7 (Sept 10):** Explored Dictionaries and Sets in Python! Learned how to store data in key-value pairs (Dictionaries) and how to handle collections of unique items (Sets).
