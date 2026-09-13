@@ -18,3 +18,7 @@ Completed Chapter 1: Learned about Python Modules, PIP (Package Installer), and 
 **Day 6 (Sept 9):** Mastered Lists and Tuples in Python! Learned how to store multiple items in a single variable, the difference between mutability (Lists) and immutability (Tuples), and how to manipulate data collections.
 
 **Day 7 (Sept 10):** Explored Dictionaries and Sets in Python! Learned how to store data in key-value pairs (Dictionaries) and how to handle collections of unique items (Sets).
+
+**Day 8 (Sept 10):** No Update
+
+
