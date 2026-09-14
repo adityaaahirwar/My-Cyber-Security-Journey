@@ -23,4 +23,7 @@ Completed Chapter 1: Learned about Python Modules, PIP (Package Installer), and 
 
 **Day 9 (Sept 10):** No Update
 
-**Day 9 (Sept 10):** No Update
+**Day 10 (Sept 10):** No Update
+
+**Day 11 (Sept 10):** No Update
+
